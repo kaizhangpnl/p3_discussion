@@ -1,5 +1,7 @@
 ## Melting 
 
+The links below point to the NGD Phase II baseline version (with p3). 
+
 ## ice_melting before sedimentation  
 
 https://github.com/E3SM-Project/E3SM/blob/7792b21d910705e1924c0014c6913eaefc721005/components/eam/src/physics/cam/micro_p3.F90#L781-L786
