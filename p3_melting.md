@@ -67,7 +67,7 @@ end subroutine ice_melting
 ```
 
 
-## ice_complete_melting inside sedimentation loop 
+## ice_complete_melting inside the sedimentation loop 
 
 
 https://github.com/E3SM-Project/E3SM/blob/7792b21d910705e1924c0014c6913eaefc721005/components/eam/src/physics/cam/micro_p3.F90#L1591-L1594
